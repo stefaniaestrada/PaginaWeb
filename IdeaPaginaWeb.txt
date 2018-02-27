@@ -1,0 +1,6 @@
+Idea para página web:
+
+Una página de atención a mascotas que permite contactarte con una veterinaria certificada en tu area, 
+hacerle seguimiento a los procesos medicos, vacunas, citas, etc. de tu mascota. También se pueden solicitar citas 
+medicas, de peluqueria o de entrenamiento. Y cuenta con una tienda de medicamentos y necesidades para la mascota, 
+así como la opción de adoptar una mascota nueva.  
